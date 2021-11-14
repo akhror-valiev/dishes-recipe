@@ -1,4 +1,4 @@
-import React from "react";
+import "./recipe.css";
 import style from "./recipe.module.css";
 
 const Recipe = ({ title, calories, image, ingredients }) => {
